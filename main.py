@@ -3,7 +3,7 @@ from configurations import config_query
 from ts import ts_query
 
 
-print("########## Welcome ##########")
+print("Welcome")
 
 options = {
     "1": "Take or restore a backup.",
